@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKategori xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kategori>
+    <KattNamn>Dokumentär</KattNamn>
+    <Pod>
+      <Pod>
+        <PodTitel>P3 Dokumentär</PodTitel>
+        <PodUrl>https://api.sr.se/api/rss/pod/itunes/3966</PodUrl>
+        <Avsnitt />
+      </Pod>
+    </Pod>
+  </Kategori>
+  <Kategori>
+    <KattNamn>Verkliga brott</KattNamn>
+    <Pod>
+      <Pod>
+        <PodTitel>P3 Krim</PodTitel>
+        <PodUrl>https://api.sr.se/api/rss/pod/itunes/34482</PodUrl>
+        <Avsnitt />
+      </Pod>
+    </Pod>
+  </Kategori>
+</ArrayOfKategori>

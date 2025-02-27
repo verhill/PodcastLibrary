@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmvTQ9jKWvs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hillv\\Downloads\\Podcast\\Podd\\Podd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hillv\\.nuget\\packages\\system.servicemodel.syndication\\8.0.0\\system.servicemodel.syndication.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
